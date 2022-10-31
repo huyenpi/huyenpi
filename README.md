@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @huyenpi
+- 👋 Hi, I’m Thu Huyen.
 - 👀 I’m interested in programming.
 - 🌱 I’m currently learning how to be a good programmer.
 - 💞️ I am looking for a job fresher java.
