@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Thu Huyen.
 - 👀 I’m interested in programming.
-- 🌱 I’m currently learning how to be a good programmer.
-- 💞️ I am looking for a job fresher java.
+- 🌱 I’m currently learning how to be a tester.
+- 💞️ I am looking for a job tester intern.
 - 📫 My email: huyenptt.th97@gmail.com
 
 <!---
